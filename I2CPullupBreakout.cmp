@@ -1,0 +1,122 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 11/10/2014 7:21:18 PM
+
+BeginCmp
+TimeStamp = /54614FBB;
+Reference = J1;
+ValeurCmp = SPDT_JUMPER;
+IdModule  = Solder_SPTT;
+EndCmp
+
+BeginCmp
+TimeStamp = /54615184;
+Reference = J2;
+ValeurCmp = SPDT_JUMPER;
+IdModule  = Solder_SPTT;
+EndCmp
+
+BeginCmp
+TimeStamp = /546151A8;
+Reference = J3;
+ValeurCmp = SPDT_JUMPER;
+IdModule  = Solder_SPTT;
+EndCmp
+
+BeginCmp
+TimeStamp = /546151CC;
+Reference = J4;
+ValeurCmp = SPDT_JUMPER;
+IdModule  = Solder_SPTT;
+EndCmp
+
+BeginCmp
+TimeStamp = /546151EC;
+Reference = P1;
+ValeurCmp = CONN_6;
+IdModule  = PIN_ARRAY-6X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5461512F;
+Reference = R1;
+ValeurCmp = 0;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54615146;
+Reference = R2;
+ValeurCmp = 470;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5461514C;
+Reference = R3;
+ValeurCmp = 10K;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5461518A;
+Reference = R4;
+ValeurCmp = 0;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54615190;
+Reference = R5;
+ValeurCmp = 470;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54615196;
+Reference = R6;
+ValeurCmp = 10K;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /546151BA;
+Reference = R7;
+ValeurCmp = 0;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /546151B4;
+Reference = R8;
+ValeurCmp = 470;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /546151AE;
+Reference = R9;
+ValeurCmp = 10K;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /546151DE;
+Reference = R10;
+ValeurCmp = 0;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /546151D8;
+Reference = R11;
+ValeurCmp = 470;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /546151D2;
+Reference = R12;
+ValeurCmp = 10K;
+IdModule  = SM0805;
+EndCmp
+
+EndListe
