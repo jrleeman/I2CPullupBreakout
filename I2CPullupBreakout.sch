@@ -30,13 +30,14 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:Jumpers
+LIBS:I2CPullupBreakout-cache
 EELAYER 27 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title ""
-Date "11 nov 2014"
+Date "7 dec 2014"
 Rev ""
 Comp ""
 Comment1 ""
@@ -403,4 +404,6 @@ Wire Wire Line
 	7000 2750 7200 2750
 Wire Wire Line
 	7200 2750 7200 2800
+Text Notes 10600 7650 0    60   ~ 0
+A
 $EndSCHEMATC
